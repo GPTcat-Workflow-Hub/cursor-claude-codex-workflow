@@ -95,7 +95,15 @@ Codex 的具体可用方式以 OpenAI 官方说明及各平台实际接入为准
 
 > 💡 关键心得：不要让 AI 一口气写完整篇。分段写、分段审，质量比"生成全文再改"好得多。
 
----
+------
+
+## 长期更新版
+
+这篇内容后续会继续整理到网站教程中，方便统一查看：
+
+- ChatGPT 中文教程站：https://www.chinachatgpt.com/
+- 相关主题：ChatGPT 中文版、Codex、API 中转、AI 工具教程
+
 
 **按需求选入口：**普通使用（选题/写稿/对话）→ [ZEOGPT](https://www.zeogpt.com/register?ref=Ac3KbS3F) · 官方订阅协助 → [GPTBuy](https://gptbuys.com/?ref=LIJUN) · 开发者 API 调用 → [ZeoAPI](https://www.zeoapi.com/register?aff=FM4J)
 以上均为第三方服务，与 OpenAI 无官方授权关系。
