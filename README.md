@@ -4,8 +4,9 @@
 
 用 AI 写内容站文章，不是打开 ChatGPT 问一句就完事。要跑通"选题 → 写稿 → 审校 → 发布"的完整链路，需要把几个工具串起来。这篇讲我自己在用的流程。
 
+- [2026-07-03｜不是程序员，怎么用 Codex 帮你干活（法务招聘都在用）](posts/20260703-codex-non-programmer-workflow.md)
+
 > 🌟 **流程中用到的第三方服务（非 OpenAI 官方）：**
->
 > • [ZEOGPT](https://www.zeogpt.com/register?ref=Ac3KbS3F) — 写稿主力，多模型切换（GPT-5.5 / Claude / Gemini 等）
 > • [GPTBuy](https://gptbuys.com/?ref=LIJUN) — 需要官方 ChatGPT Plus/Pro 时，协助充值
 > • [ZeoAPI](https://www.zeoapi.com/register?aff=FM4J) — API 中转，Cursor 里批量调用走这个
