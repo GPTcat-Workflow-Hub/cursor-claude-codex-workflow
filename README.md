@@ -4,6 +4,7 @@
 
 用 AI 写内容站文章，不是打开 ChatGPT 问一句就完事。要跑通"选题 → 写稿 → 审校 → 发布"的完整链路，需要把几个工具串起来。这篇讲我自己在用的流程。
 
+- [2026-07-07 | Gemini Spark 登陆 Mac：桌面 AI agent 大战正式开打](posts/20260707-gemini-spark-mac-agent.md)
 - [2026-07-06 | ChatGPT 镜像站和 Codex 有什么关系？能不能通过镜像站用 Codex](posts/20260706-mirror-site-codex-relationship.md)
 - [2026-07-03｜不是程序员，怎么用 Codex 帮你干活（法务招聘都在用）](posts/20260703-codex-non-programmer-workflow.md)
 
